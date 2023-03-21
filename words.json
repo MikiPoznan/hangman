@@ -1,0 +1,28 @@
+{
+"zwierzeta": [
+"pies",
+"kot",
+"chomik",
+"owca",
+"koza",
+"pancernik"
+],
+"zawody": [
+    "lekarz",
+    "informatyk",
+    "menager",
+    "nauczyciel",
+    "sprzedawca",
+    "prawnik"
+],
+"gry": [
+    "doom",
+    "minecraft",
+    "rust",
+    "fortnite",
+    "league of legends",
+    "rocket league",
+    "CS GO",
+    "roblox"
+]
+}
