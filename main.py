@@ -10,7 +10,7 @@ def losowanie():
     los_temat = random.randint(0,len(klucze)-1)
     a = data[klucze[los_temat]]
     los_haslo = random.randint(0,len(a)-1)
-    return  data[klucze[los_temat]][los_haslo],klucze[los_temat]
+    return  data[klucze[los_temat]][los_haslo],klucze[los_temat] # Zwraca słowo oraz temat ( użyte przy podpowiedzi w formie tematu)
 
 class gra():
     def __init__(self,hp=10):
